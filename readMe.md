@@ -158,7 +158,8 @@ melt_your_cpu(1.2)
 # 11.2
 # 12.2
 
-# This starts off pretty close, but close doesn't count in programming. It gets to 11.2, but 11.2 isn't 11, so the loop continues, and again will never actually get to 11 to stop the loop.
+# This starts off pretty close, but close doesn't count in programming. It gets to 11.2,
+# but 11.2 isn't 11, so the loop continues, and again will never actually get to 11 to stop the loop.
 ```
 
 ## For Loops
