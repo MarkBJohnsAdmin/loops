@@ -328,5 +328,6 @@ for idx, pkmn in pokemon:
 # Dex Number 2: ivysaur
 # Dex Number 3: venusaur 
 
-#Note that Python is zero-indexed, which can be awkward for non-programmers and make make data actually wrong if you're referencing external data, like a Pokedex. Adding 1 to the value just helps readability.
+# Note that Python is zero-indexed, which can be awkward for non-programmers and make make data actually
+# wrong if you're referencing external data, like a Pokedex. Adding 1 to the value just helps readability.
 ```
